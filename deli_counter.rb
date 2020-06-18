@@ -6,3 +6,5 @@ def line(katz_deli)
   end
 
 end
+
+def line(other_deli)
