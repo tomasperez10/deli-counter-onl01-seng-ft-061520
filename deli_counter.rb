@@ -22,6 +22,6 @@ def take_a_number(line, new_customer)
   
   line.push(new_customer)
   
-  puts "Welcome, #{new_customer}. You are number #{line.length}"
+  puts "Welcome, #{new_customer}. You are number #{line.length} in line."
 
 end
