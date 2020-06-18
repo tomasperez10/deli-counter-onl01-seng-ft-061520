@@ -8,4 +8,7 @@ def line(katz_deli)
 end
 
 def line(other_deli)
-  if 
+  
+  if other_deli == 
+  end  
+end
