@@ -40,6 +40,6 @@ def now_serving(line)
     
   else
     
-    puts "Currently serving "
+    puts "Currently serving #{line"
   
 end
