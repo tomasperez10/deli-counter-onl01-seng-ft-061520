@@ -8,4 +8,4 @@ def line(array)
       new_array.push("#{counter}. #{name}")
       counter += 1
     end
-    puts 
+    puts "The line is currently "
