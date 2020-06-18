@@ -3,7 +3,8 @@ def line(katz_deli, other_deli, another_deli)
   
   if katz_deli
     puts "The line is currently empty."
-  elsif other_deli 
+  elsif other_deli
+    puts "The"
   end
 
 end
