@@ -2,3 +2,4 @@
 def line(array)
   if array.length >= 1
     new_array = []
+    counter = 1
