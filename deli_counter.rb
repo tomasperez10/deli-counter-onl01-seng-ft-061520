@@ -27,4 +27,4 @@ def take_a_number(line, new_customer)
 end
 
 
-def now_serving
+def now_serving(line)
